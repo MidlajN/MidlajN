@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MidlajN)
 
 <br>
-I'm a developing Full-Stack Software Developer and a passionate Competitive Programming enthusiast. I have a strong desire to continuously enhance my skills and knowledge, and I'm actively seeking a platform to support my personal and professional growth.
+I'm a developing Full-Stack Software Developer and a passionate Programming enthusiast. I have a strong desire to continuously enhance my skills and knowledge, and I'm actively seeking a platform to support my personal and professional growth.
 <br>
 <br><br><br>
 </div>
